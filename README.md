@@ -18,3 +18,6 @@ are merged into the main branch.
 4. GitHub Actions executes Terraform Plan.
 5. Production approval is requested.
 6. Terraform Apply executes after approval.
+
+## Deployment Trigger
+Infrastructure deployment is triggered after merging a PR into main.
